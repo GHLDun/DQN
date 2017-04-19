@@ -2,7 +2,7 @@
 by chenzhaomin
 
 ### Overview
-This repository is an implementation of  the [dqn](https://storage.googleapis.com/deepmind-media/dqn/DQNNaturePaper.pdf) method which  is used to solve the [OpenAI CartPole-v0](https://gym.openai.com/envs/CartPole-v0), and the reinforcement_q_learning.py is the file from [pytorch tutorials](http://pytorch.org/tutorials/intermediate/reinforcement_q_learning.html).
+This repository is an implementation of  the [dqn](https://storage.googleapis.com/deepmind-media/dqn/DQNNaturePaper.pdf) method which  is used to solve the [OpenAI CartPole-v0](https://gym.openai.com/evaluations/eval_NZKl9J8wTHC3VNQNREUt2Q), and the reinforcement_q_learning.py is the file from [pytorch tutorials](http://pytorch.org/tutorials/intermediate/reinforcement_q_learning.html).
 
 ## Installation Dependencies:
 * Python2.7
